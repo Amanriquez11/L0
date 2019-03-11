@@ -1,0 +1,11 @@
+cd Desktop/
+cd L0/
+git add *
+git commit -m"creacion archivo de texto"
+git config --global user.email "you@example.com"
+git config --global user.email "aimanriquez@uc.cl"
+git config --global user.name "Andres Manriquez"
+git commit -m "Creacion archivo de texto"
+git push
+git pull
+doskey /History
